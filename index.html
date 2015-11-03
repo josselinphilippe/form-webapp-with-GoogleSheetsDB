@@ -1,0 +1,183 @@
+<html>
+<head>
+
+<title>FBT Mobile Form and Map</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+<script src="main.js"></script>
+
+<style>
+.comments-area article header cite, .comments-area article header time {
+    margin-left:0px;
+}
+.site {
+    padding-top:15px;
+}
+</style>
+</head>
+  <body>
+
+            <!-------------- First page for form ----------->
+            <div data-role="page" id="form-page">
+                     <div id="authorize-div" style="display: none"> <span>Authorize access to Google Apps Script Execution API</span> 
+    <!--Button for the user to click to initiate auth sequence -->
+    <button id="authorize-button" onclick="handleAuthClick(event)"> Authorize </button>
+  </div>
+                 <div id="loading" style="display:none">
+      <article>Loading...</article>
+    </div>
+                <!-------------- First page header ----------->
+
+                <div data-role="navbar" data-theme="b" data-position="fixed" data-id="header">
+                    <ul>
+                        <li><a href="#map-page">MAP</a></li>
+                        <li><a href="#form-page" style="background-color:  rgba(3,167,126, 0.31)">FORM</a></li>
+                        <!--            <li><a href="#">Three</a></li>-->
+                    </ul>
+                </div>
+                <!-- /navbar -->
+
+                <!-------------- First page main content ----------->
+                <div data-role="main" class="ui-content" layout="row">
+                 
+
+                    <form id='inspection-form' style="zoom: 100%;">
+
+                        <!--CS NUMBER-->
+                        <label for="cs-num-input"></label>
+                        <input type="number" name="cs_number" id="cs-num-input" placeholder="CS 0000" min="1" max="15000" required>
+
+                        <!--Station Name-->
+
+                        <div id="stations-content" data-role="content" data-role="content">
+                            <!-- <ul id="stations-listview" data-role="listview" data-filter="true" data-filter-placeholder="search..."></ul>-->
+                            <ul data-role="listview" data-filter="true" data-filter-reveal="true" data-filter-placeholder="Search stations..." data-inset="true" id="stations-listview"></ul>
+                        </div>
+
+
+                        <!--INSPECTION TYPE-->
+                        <fieldset data-role="collapsible-set" id ="collapseContainer">
+                            <legend></legend>
+
+                            <!--    TYPE: REPAIR   -->
+                            <fieldset data-role="collapsible" data-collapsed="true">
+                                <legend>Repair</legend>
+                                <div data-role="controlgroup" id="RepairCtrlGrp">
+
+                                    <input type="checkbox" name="brakes_rpr" id="brakes_rpr" class="rpr">
+                                    <label for="brakes_rpr">Brakes</label>
+
+                                    <input type="checkbox" name="hubs_rpr" id="hubs_rpr" class="rpr">
+                                    <label for="hubs_rpr">Hubs</label>
+
+                                    <input type="checkbox" name="headset_rpr" id="headset_rpr" class="rpr">
+                                    <label for="headset_rpr">Headset</label>
+
+                                    <input type="checkbox" name="kickstand_rpr" id="kickstand_rpr" class="rpr">
+                                    <label for="kickstand_rpr">Kickstand</label>
+
+                                    <input type="checkbox" name="esthetics_rpr" id="esthetics_rpr" class="rpr">
+                                    <label for="esthetics_rpr">Esthetics</label>
+
+                                    <input type="checkbox" name="chain_rpr" id="chain_rpr" class="rpr">
+                                    <label for="chain_rpr">Chain</label>
+
+                                    <input type="checkbox" name="cranks_rpr" id="cranks_rpr" class="rpr">
+                                    <label for="cranks_rpr">Cranks</label>
+
+                                    <input type="checkbox" name="seatpost_rpr" id="seatpost_rpr" class="rpr">
+                                    <label for="seatpost_rpr">Seatpost</label>
+
+                                    <input type="checkbox" name="saddle_rpr" id="saddle_rpr" class="rpr">
+                                    <label for="saddle_rpr">Saddle</label>
+
+                                    <input type="checkbox" name="triangle_rpr" id="triangle_rpr" class="rpr">
+                                    <label for="triangle_rpr">Triangle</label>
+
+
+                                </div>
+                            </fieldset>
+
+
+                            <!--    TYPE: BLOCK    -->
+                            <fieldset data-role="collapsible" data-collapsed="true">
+                                <legend>Block</legend>
+                                <input type="checkbox" name="brakes_blk" id="brakes_blk" class="blk">
+                                <label for="brakes_blk">Brakes</label>
+
+                                <input type="checkbox" name="hubs_blk" id="hubs_blk" class="blk">
+                                <label for="hubs_blk">Hubs</label>
+
+                                <input type="checkbox" name="headset_blk" id="headset_blk" class="blk">
+                                <label for="headset_blk">Headset</label>
+
+                                <input type="checkbox" name="kickstand_blk" id="kickstand_blk" class="blk">
+                                <label for="kickstand_blk">Kickstand</label>
+
+                                <input type="checkbox" name="esthetics_blk" id="esthetics_blk" class="blk">
+                                <label for="esthetics_blk">Esthetics</label>
+
+                                <input type="checkbox" name="chain_blk" id="chain_blk" class="blk">
+                                <label for="chain_blk">Chain</label>
+
+                                <input type="checkbox" name="cranks_blk" id="cranks_blk" class="blk">
+                                <label for="cranks_blk">Cranks</label>
+
+                                <input type="checkbox" name="seatpost_blk" id="seatpost_blk" class="blk">
+                                <label for="seatpost_blk">Seatpost</label>
+
+                                <input type="checkbox" name="saddle_blk" id="saddle_blk" class="blk">
+                                <label for="saddle_blk">Saddle</label>
+
+                                <input type="checkbox" name="triangle_blk" id="triangle_blk" class="blk">
+                                <label for="triangle_blk">Triangle</label>
+
+
+                            </fieldset>
+                            <!--    TYPE: UNBLOCK-->
+                            <!--<legend>Unblock</legend> -->
+                            <input type="checkbox" name="unblock" id="unblock" class="unblk">
+                            <label for="unblock">Unblock</label>
+
+
+                        </fieldset>
+
+                        <!--INVENTORY-->
+                        <input type="checkbox" name="inventory" id="inventory" class="inv">
+                        <label for="inventory">Inventory</label>
+
+
+                             <input type="submit" value="Send" />
+                    </form>
+                </div>
+
+            </div>
+            <!-------------------------------------------------------------
+End of First page
+-------------------------------------------------------------->
+            <!-------------- Second page ----------->
+            <div data-role="page" id="map-page">
+
+                <!-------------- Map page header ----------->
+                <div data-role="navbar" data-theme="b" data-position="fixed" data-id="header">
+                    <ul>
+                        <li><a href="#map-page" style="background-color: rgba(3,167,126, 0.31)">MAP</a></li>
+                        <li><a href="#form-page">FORM</a></li>
+                        <!--            <li><a href="#">Three</a></li>-->
+                    </ul>
+                </div>
+                <!-- /navbar -->
+                <!-------------- Second page main content ----------->
+                <div data-role="main" class="ui-content">
+                      <iframe width="100%" height="520" frameborder="0" src="https://jossphilippe.cartodb.com/viz/e0a816a6-57df-11e5-a22e-0ec6f7c8b2b9/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+                </div>
+            </div>
+            <!-------------------------------------------------------------
+End of Second page
+-------------------------------------------------------------->
+        </body>
+
+<script src="https://apis.google.com/js/client.js?onload=checkAuth"></script>
+</html>

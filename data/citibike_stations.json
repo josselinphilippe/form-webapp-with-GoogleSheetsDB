@@ -1,0 +1,3778 @@
+[
+  {
+    "Name":"1 Ave & E 15 St",
+    "Latitude":40.73221853,
+    "Longitude":-73.98165557,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"1 Ave & E 18 St",
+    "Latitude":40.73381219,
+    "Longitude":-73.98054421,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"1 Ave & E 30 St",
+    "Latitude":40.74144387,
+    "Longitude":-73.97536082,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"1 Ave & E 44 St",
+    "Latitude":40.75001986,
+    "Longitude":-73.96905301,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"1 Ave & E 62 St",
+    "Latitude":40.7612274,
+    "Longitude":-73.96094022,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"1 Ave & E 68 St",
+    "Latitude":40.76500525,
+    "Longitude":-73.95818491,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"1 Ave & E 78 St",
+    "Latitude":40.77140426,
+    "Longitude":-73.9535166,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"10 Ave & W 28 St",
+    "Latitude":40.75066386,
+    "Longitude":-74.00176802,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"11 Ave & W 27 St",
+    "Latitude":40.751396,
+    "Longitude":-74.005226,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"11 Ave & W 41 St",
+    "Latitude":40.76030096,
+    "Longitude":-73.99884222,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"11 Ave & W 59 St",
+    "Latitude":40.771522,
+    "Longitude":-73.990541,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"12 Ave & W 40 St",
+    "Latitude":40.76087502,
+    "Longitude":-74.00277668,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"2 Ave & E 31 St",
+    "Latitude":40.74290902,
+    "Longitude":-73.97706058,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"2 Ave & E 58 St",
+    "Latitude":40.76020258,
+    "Longitude":-73.96478473,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"21 St & 43 Ave",
+    "Latitude":40.75052534,
+    "Longitude":-73.94594845,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"21 St & Queens Plaza North",
+    "Latitude":40.75325964,
+    "Longitude":-73.94335788,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"3 Ave & E 62 St",
+    "Latitude":40.76312584,
+    "Longitude":-73.96526895,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"3 Ave & Schermerhorn St",
+    "Latitude":40.68683208,
+    "Longitude":-73.9796772,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"31 St & Thomson Ave",
+    "Latitude":40.74469738,
+    "Longitude":-73.93540375,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"44 Dr & Jackson Ave",
+    "Latitude":40.74718234,
+    "Longitude":-73.9432635,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"45 Rd & 11 St",
+    "Latitude":40.74708586,
+    "Longitude":-73.94977234,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"46 Ave & 5 St",
+    "Latitude":40.74731,
+    "Longitude":-73.95451,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"47 Ave & 31 St",
+    "Latitude":40.743,
+    "Longitude":-73.93561,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"48 Ave & 5th St",
+    "Latitude":40.74436329,
+    "Longitude":-73.95587325,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"5 Ave & E 29 St",
+    "Latitude":40.7451677,
+    "Longitude":-73.98683077,
+    "Level":"warning",
+    "Status":"OK",
+    "Condition":"System version mismatch"
+  },
+  {
+    "Name":"5 Ave & E 63 St",
+    "Latitude":40.76650452,
+    "Longitude":-73.97147595,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"5 Ave & E 73 St",
+    "Latitude":40.77282817,
+    "Longitude":-73.96685276,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"5 Ave & E 78th St",
+    "Latitude":40.77682863,
+    "Longitude":-73.96388769,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"6 Ave & Broome St",
+    "Latitude":40.724399,
+    "Longitude":-74.004704,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"6 Ave & Canal St",
+    "Latitude":40.72243797,
+    "Longitude":-74.00566443,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"6 Ave & W 33 St",
+    "Latitude":40.74901271,
+    "Longitude":-73.98848395,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"71 White Street - Expansion Warehouse - 2015",
+    "Latitude":0,
+    "Longitude":0,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"8 Ave & W 31 St",
+    "Latitude":40.75096735,
+    "Longitude":-73.99444208,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"8 Ave & W 33 St",
+    "Latitude":40.751551,
+    "Longitude":-73.993934,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"8 Ave & W 52 St",
+    "Latitude":40.76370739,
+    "Longitude":-73.9851615,
+    "Level":"alarm",
+    "Status":"OK",
+    "Condition":"Printer - out of paper"
+  },
+  {
+    "Name":"9 Ave & W 16 St",
+    "Latitude":40.74206539,
+    "Longitude":-74.00443172,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"9 Ave & W 18 St",
+    "Latitude":40.74317449,
+    "Longitude":-74.00366443,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"9 Ave & W 22 St",
+    "Latitude":40.7454973,
+    "Longitude":-74.00197139,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"9 Ave & W 45 St",
+    "Latitude":40.76019252,
+    "Longitude":-73.9912551,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"9 St & 44 Rd",
+    "Latitude":40.74966,
+    "Longitude":-73.9521,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Adelphi St & Myrtle Ave",
+    "Latitude":40.69308257,
+    "Longitude":-73.97178913,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Albany Ave & Fulton St",
+    "Latitude":40.6800105,
+    "Longitude":-73.938475,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"Allen St & E Houston St",
+    "Latitude":40.722055,
+    "Longitude":-73.989111,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Allen St & Hester St",
+    "Latitude":40.71605866,
+    "Longitude":-73.99190759,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Allen St & Rivington St",
+    "Latitude":40.72019576,
+    "Longitude":-73.98997825,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Amsterdam Ave & W 73 St",
+    "Latitude":40.77966809,
+    "Longitude":-73.98093045,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Atlantic Ave & Fort Greene Pl",
+    "Latitude":40.68382604,
+    "Longitude":-73.97632328,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Atlantic Ave & Furman St",
+    "Latitude":40.69165183,
+    "Longitude":-73.9999786,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Avenue D & E 12 St",
+    "Latitude":40.72580614,
+    "Longitude":-73.97422494,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Avenue D & E 3 St",
+    "Latitude":40.72082834,
+    "Longitude":-73.97793172,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Avenue D & E 8 St",
+    "Latitude":40.72368361,
+    "Longitude":-73.97574813,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Bank St & Hudson St",
+    "Latitude":40.73652889,
+    "Longitude":-74.00618026,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Bank St & Washington St",
+    "Latitude":40.7361967,
+    "Longitude":-74.00859207,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Banker St & Meserole Ave",
+    "Latitude":40.72606,
+    "Longitude":-73.95621,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Barclay St & Church St",
+    "Latitude":40.71291224,
+    "Longitude":-74.01020234,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Barrow St & Hudson St",
+    "Latitude":40.73172428,
+    "Longitude":-74.00674436,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Bayard St & Baxter St",
+    "Latitude":40.71602118,
+    "Longitude":-73.99974372,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Bedford Ave & Nassau Ave",
+    "Latitude":40.72311651,
+    "Longitude":-73.95212324,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"Bedford Ave & S 9 St",
+    "Latitude":40.70853074,
+    "Longitude":-73.96408963,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Berry St & N 8 St",
+    "Latitude":40.7190095,
+    "Longitude":-73.95852515,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Bialystoker Pl & Delancey St",
+    "Latitude":40.71622644,
+    "Longitude":-73.98261206,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Boerum St & Broadway",
+    "Latitude":40.70538077,
+    "Longitude":-73.94976519,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Bond St & Fulton St",
+    "Latitude":40.68962189,
+    "Longitude":-73.98304269,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Bond St & Schermerhorn St",
+    "Latitude":40.68807003,
+    "Longitude":-73.98410637,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Broad St & Bridge St",
+    "Latitude":40.70365182,
+    "Longitude":-74.01167797,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Broadway & Battery Pl",
+    "Latitude":40.70463334,
+    "Longitude":-74.01361706,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Broadway & Berry St",
+    "Latitude":40.71044554,
+    "Longitude":-73.96525063,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Broadway & E 14 St",
+    "Latitude":40.73454567,
+    "Longitude":-73.99074142,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Broadway & E 22 St",
+    "Latitude":40.7403432,
+    "Longitude":-73.98955109,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"Broadway & W 24 St",
+    "Latitude":40.7423543,
+    "Longitude":-73.98915076,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Broadway & W 29 St",
+    "Latitude":40.7462009,
+    "Longitude":-73.98855723,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"Broadway & W 32 St",
+    "Latitude":40.74854862,
+    "Longitude":-73.98808416,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Broadway & W 36 St",
+    "Latitude":40.75097711,
+    "Longitude":-73.98765428,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Broadway & W 37 St",
+    "Latitude":40.75172632,
+    "Longitude":-73.98753523,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Broadway & W 39 St",
+    "Latitude":40.75299641,
+    "Longitude":-73.98721619,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Broadway & W 41 St",
+    "Latitude":40.75513557,
+    "Longitude":-73.98658032,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Broadway & W 49 St",
+    "Latitude":40.76064679,
+    "Longitude":-73.98442659,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Broadway & W 51 St",
+    "Latitude":40.76228826,
+    "Longitude":-73.98336183,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Broadway & W 53 St",
+    "Latitude":40.76344058,
+    "Longitude":-73.98268129,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Broadway & W 55 St",
+    "Latitude":40.7652654,
+    "Longitude":-73.98192338,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Broadway & W 58 St",
+    "Latitude":40.76695317,
+    "Longitude":-73.98169333,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Broadway & W 60 St",
+    "Latitude":40.76915505,
+    "Longitude":-73.98191841,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Broadway & Whipple St",
+    "Latitude":40.7016657,
+    "Longitude":-73.9437303,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Brooklyn Bridge Park - Pier 2",
+    "Latitude":40.69878,
+    "Longitude":-73.99712,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Bus Slip & State St",
+    "Latitude":40.701907,
+    "Longitude":-74.013942,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Bushwick Ave & Powers St",
+    "Latitude":40.71247661,
+    "Longitude":-73.94100005,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Cadman Plaza E & Red Cross Pl",
+    "Latitude":40.69991755,
+    "Longitude":-73.98971773,
+    "Level":"warning",
+    "Status":"OK",
+    "Condition":"BDC - no. of bike docks mismatch"
+  },
+  {
+    "Name":"Cadman Plaza E & Tillary St",
+    "Latitude":40.69597683,
+    "Longitude":-73.99014892,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Cadman Plaza W & Pierrepont St",
+    "Latitude":40.69475701,
+    "Longitude":-73.99052739,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Cadman Plaza West & Montague St",
+    "Latitude":40.69383,
+    "Longitude":-73.990539,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"Cambridge Pl & Gates Ave",
+    "Latitude":40.68488,
+    "Longitude":-73.96304,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Canal St & Rutgers St",
+    "Latitude":40.71427487,
+    "Longitude":-73.98990025,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Carlton Ave & Flushing Ave",
+    "Latitude":40.697787,
+    "Longitude":-73.973736,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Carlton Ave & Park Ave",
+    "Latitude":40.69580705,
+    "Longitude":-73.97355569,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Carmine St & 6 Ave",
+    "Latitude":40.73038599,
+    "Longitude":-74.00214988,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Catherine St & Monroe St",
+    "Latitude":40.71117444,
+    "Longitude":-73.99682619,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Center Blvd & Borden Ave",
+    "Latitude":40.74161,
+    "Longitude":-73.96044,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Central Park S & 6 Ave",
+    "Latitude":40.76590936,
+    "Longitude":-73.97634151,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"Central Park West & W 68 St",
+    "Latitude":40.7734066,
+    "Longitude":-73.97782542,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Central Park West & W 72 St",
+    "Latitude":40.77575319,
+    "Longitude":-73.97603963,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Central Park West & W 76 St",
+    "Latitude":40.77896784,
+    "Longitude":-73.97374737,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Central Park West & W 85 St",
+    "Latitude":40.78472675,
+    "Longitude":-73.96961715,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Centre St & Chambers St",
+    "Latitude":40.71273266,
+    "Longitude":-74.0046073,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"Centre St & Worth St",
+    "Latitude":40.71494807,
+    "Longitude":-74.00234482,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Cherry St",
+    "Latitude":40.71219906,
+    "Longitude":-73.97948148,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Christopher St & Greenwich St",
+    "Latitude":40.73291553,
+    "Longitude":-74.00711384,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Clark St & Henry St",
+    "Latitude":40.69760127,
+    "Longitude":-73.99344559,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Clermont Ave & Lafayette Ave",
+    "Latitude":40.68764484,
+    "Longitude":-73.96968902,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"Clermont Ave & Park Ave",
+    "Latitude":40.69573398,
+    "Longitude":-73.97129668,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"Cleveland Pl & Spring St",
+    "Latitude":40.72210379,
+    "Longitude":-73.99724901,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Cliff St & Fulton St",
+    "Latitude":40.70823502,
+    "Longitude":-74.00530063,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Clinton Ave & Flushing Ave",
+    "Latitude":40.69794,
+    "Longitude":-73.96986848,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Clinton Ave & Myrtle Ave",
+    "Latitude":40.693261,
+    "Longitude":-73.968896,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Clinton St & Grand St",
+    "Latitude":40.71559509,
+    "Longitude":-73.9870295,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Clinton St & Joralemon St",
+    "Latitude":40.69239502,
+    "Longitude":-73.99337909,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Clinton St & Tillary St",
+    "Latitude":40.696192,
+    "Longitude":-73.991218,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Columbia Heights & Cranberry St",
+    "Latitude":40.70037867,
+    "Longitude":-73.99548059,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Columbia St & Rivington St",
+    "Latitude":40.71739973,
+    "Longitude":-73.98016555,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Columbus Ave & W 72 St",
+    "Latitude":40.7770575,
+    "Longitude":-73.97898475,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Concord St & Bridge St",
+    "Latitude":40.69766564,
+    "Longitude":-73.98476437,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Cumberland St & Lafayette Ave",
+    "Latitude":40.68753406,
+    "Longitude":-73.97265183,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Dean St & 4 Ave",
+    "Latitude":40.68312489,
+    "Longitude":-73.97895137,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"DeKalb Ave & Hudson Ave",
+    "Latitude":40.689888,
+    "Longitude":-73.981013,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"DeKalb Ave & S Portland Ave",
+    "Latitude":40.68981035,
+    "Longitude":-73.97493121,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"DeKalb Ave & Skillman St",
+    "Latitude":40.6906495,
+    "Longitude":-73.95643107,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"DeKalb Ave & Vanderbilt Ave",
+    "Latitude":40.68940747,
+    "Longitude":-73.96885458,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Devoe St & Leonard St",
+    "Latitude":40.71348658,
+    "Longitude":-73.94792458,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"Division Ave & Hooper St",
+    "Latitude":40.70691254,
+    "Longitude":-73.95441667,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Division Ave & Marcy Ave",
+    "Latitude":40.70708701,
+    "Longitude":-73.95796783,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Division St & Bowery",
+    "Latitude":40.71413089,
+    "Longitude":-73.9970468,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Driggs Ave & Lorimer St",
+    "Latitude":40.72179134,
+    "Longitude":-73.9504154,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Driggs Ave & N Henry St",
+    "Latitude":40.72325,
+    "Longitude":-73.94308,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Duane St & Greenwich St",
+    "Latitude":40.71748752,
+    "Longitude":-74.0104554,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Duffield St & Willoughby St",
+    "Latitude":40.69221589,
+    "Longitude":-73.9842844,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"E 10 St & 5 Ave",
+    "Latitude":40.73331967,
+    "Longitude":-73.99510132,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 10 St & Avenue A",
+    "Latitude":40.72740794,
+    "Longitude":-73.98142006,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 11 St & 1 Ave",
+    "Latitude":40.72953837,
+    "Longitude":-73.98426726,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 11 St & 2 Ave",
+    "Latitude":40.73047309,
+    "Longitude":-73.98672378,
+    "Level":"alarm",
+    "Status":"OK",
+    "Condition":"IC - error"
+  },
+  {
+    "Name":"E 11 St & Broadway",
+    "Latitude":40.73261787,
+    "Longitude":-73.99158043,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"E 12 St & 3 Ave",
+    "Latitude":40.73223272,
+    "Longitude":-73.98889957,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 13 St & Avenue A",
+    "Latitude":40.72955361,
+    "Longitude":-73.98057249,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 14 St & Avenue B",
+    "Latitude":40.72938685,
+    "Longitude":-73.97772429,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 15 St & 3 Ave",
+    "Latitude":40.734232,
+    "Longitude":-73.986923,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 16 St & 5 Ave",
+    "Latitude":40.73726186,
+    "Longitude":-73.99238967,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 16 St & Irving Pl",
+    "Latitude":40.73524276,
+    "Longitude":-73.98758561,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 17 St & Broadway",
+    "Latitude":40.73704984,
+    "Longitude":-73.99009296,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 19 St & 3 Ave",
+    "Latitude":40.73624527,
+    "Longitude":-73.98473765,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"E 2 St & 2 Ave",
+    "Latitude":40.72502876,
+    "Longitude":-73.99069656,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 2 St & Avenue B",
+    "Latitude":40.72217444,
+    "Longitude":-73.98368779,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 2 St & Avenue C",
+    "Latitude":40.7208736,
+    "Longitude":-73.98085795,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 20 St & 2 Ave",
+    "Latitude":40.73587678,
+    "Longitude":-73.98205027,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 20 St & FDR Drive",
+    "Latitude":40.73314259,
+    "Longitude":-73.97573881,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 20 St & Park Ave",
+    "Latitude":40.73827428,
+    "Longitude":-73.98751968,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 23 St & 1 Ave",
+    "Latitude":40.736502,
+    "Longitude":-73.97809472,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 24 St & Park Ave S",
+    "Latitude":40.74096374,
+    "Longitude":-73.98602213,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 25 St & 1 Ave",
+    "Latitude":40.7381765,
+    "Longitude":-73.97738662,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 25 St & 2 Ave",
+    "Latitude":40.73912601,
+    "Longitude":-73.97973776,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 27 St & 1 Ave",
+    "Latitude":40.739445,
+    "Longitude":-73.976806,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"E 3 St & 1 Ave",
+    "Latitude":40.72467721,
+    "Longitude":-73.98783413,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"E 30 St & Park Ave S",
+    "Latitude":40.74444921,
+    "Longitude":-73.98303529,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 31 St & 3 Ave",
+    "Latitude":40.74394314,
+    "Longitude":-73.97966069,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 32 St & Park Ave",
+    "Latitude":40.7457121,
+    "Longitude":-73.98194829,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 33 St & 2 Ave",
+    "Latitude":40.744023,
+    "Longitude":-73.976056,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 33 St & 5 Ave",
+    "Latitude":40.74765947,
+    "Longitude":-73.98490707,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 37 St & Lexington Ave",
+    "Latitude":40.748238,
+    "Longitude":-73.978311,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 39 St & 2 Ave",
+    "Latitude":40.74780373,
+    "Longitude":-73.9734419,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 39 St & 3 Ave",
+    "Latitude":40.7489006,
+    "Longitude":-73.97604882,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 4 St & 2 Ave",
+    "Latitude":40.7262807,
+    "Longitude":-73.98978041,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 40 St & 5 Ave",
+    "Latitude":40.75206231,
+    "Longitude":-73.9816324,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"E 43 St & 2 Ave",
+    "Latitude":40.75022392,
+    "Longitude":-73.97121414,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 43 St & Vanderbilt Ave",
+    "Latitude":40.75320159,
+    "Longitude":-73.9779874,
+    "Level":"alarm",
+    "Status":"OK",
+    "Condition":"Printer - out of paper"
+  },
+  {
+    "Name":"E 45 St & 3 Ave",
+    "Latitude":40.75255434,
+    "Longitude":-73.97282625,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 47 St & 1 Ave",
+    "Latitude":40.75206862,
+    "Longitude":-73.96784384,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 47 St & 2 Ave",
+    "Latitude":40.75323098,
+    "Longitude":-73.97032517,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 47 St & Park Ave",
+    "Latitude":40.75510267,
+    "Longitude":-73.97498696,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 48 St & 3 Ave",
+    "Latitude":40.7546011,
+    "Longitude":-73.97187886,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"E 5 St & Avenue C",
+    "Latitude":40.72299208,
+    "Longitude":-73.97995466,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 51 St & 1 Ave",
+    "Latitude":40.75455731,
+    "Longitude":-73.96592976,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 51 St & Lexington Ave",
+    "Latitude":40.75714758,
+    "Longitude":-73.97207836,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 52 St & 2 Ave",
+    "Latitude":40.756014,
+    "Longitude":-73.967416,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 53 St & Lexington Ave",
+    "Latitude":40.75828065,
+    "Longitude":-73.97069431,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 53 St & Madison Ave",
+    "Latitude":40.7597108,
+    "Longitude":-73.97402311,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 55 St & 2 Ave",
+    "Latitude":40.75797322,
+    "Longitude":-73.96603308,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"E 55 St & 3 Ave",
+    "Latitude":40.75899656,
+    "Longitude":-73.96865398,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 55 St & Lexington Ave",
+    "Latitude":40.75968085,
+    "Longitude":-73.97031366,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 56 St & Madison Ave",
+    "Latitude":40.761628,
+    "Longitude":-73.972924,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 58 St & 3 Ave",
+    "Latitude":40.76095756,
+    "Longitude":-73.96724467,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 59 St & Madison Ave",
+    "Latitude":40.76350532,
+    "Longitude":-73.97109243,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 6 St & Avenue B",
+    "Latitude":40.72453734,
+    "Longitude":-73.98185424,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 6 St & Avenue D",
+    "Latitude":40.72228087,
+    "Longitude":-73.97668709,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"E 60 St & York Ave",
+    "Latitude":40.759107,
+    "Longitude":-73.959223,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 67 St & Park Ave",
+    "Latitude":40.7678008,
+    "Longitude":-73.96592081,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 7 St & Avenue A",
+    "Latitude":40.72621788,
+    "Longitude":-73.98379855,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"E 72 St & Park Ave",
+    "Latitude":40.77122923,
+    "Longitude":-73.96432627,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 72 St & York Ave",
+    "Latitude":40.76663814,
+    "Longitude":-73.95348296,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 75 St & 3 Ave",
+    "Latitude":40.77112927,
+    "Longitude":-73.95772297,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 81 St & 3 Ave",
+    "Latitude":40.77573034,
+    "Longitude":-73.9567526,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 81 St & Park Ave",
+    "Latitude":40.77677702,
+    "Longitude":-73.9590097,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 82 St & 2 Ave",
+    "Latitude":40.77517793,
+    "Longitude":-73.95324922,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 84 St & 1 Ave",
+    "Latitude":40.77565541,
+    "Longitude":-73.95068615,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 84 St & Park Ave",
+    "Latitude":40.77862688,
+    "Longitude":-73.95772073,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 85 St & 3 Ave",
+    "Latitude":40.77801203,
+    "Longitude":-73.95407149,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 85 St & York Ave",
+    "Latitude":40.77536905,
+    "Longitude":-73.94803392,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E 9 St & Avenue C",
+    "Latitude":40.72521311,
+    "Longitude":-73.97768752,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"E.T. Bike-In Movie Valet Station ",
+    "Latitude":40.722852,
+    "Longitude":-73.959114,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"East End Ave & E 86 St",
+    "Latitude":40.77518615,
+    "Longitude":-73.94446054,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Elizabeth St & Hester St",
+    "Latitude":40.71729,
+    "Longitude":-73.996375,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Emerson Pl & Myrtle Ave",
+    "Latitude":40.69363137,
+    "Longitude":-73.96223558,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"FDR Drive & E 35 St",
+    "Latitude":40.744219,
+    "Longitude":-73.97121214,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Forsyth St & Broome St",
+    "Latitude":40.71893904,
+    "Longitude":-73.99266288,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Forsyth St & Canal St",
+    "Latitude":40.7158155,
+    "Longitude":-73.99422366,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Franklin Ave & Myrtle Ave",
+    "Latitude":40.694528,
+    "Longitude":-73.958089,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Franklin St & Dupont St",
+    "Latitude":40.73564,
+    "Longitude":-73.95866,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Franklin St & W Broadway",
+    "Latitude":40.71911552,
+    "Longitude":-74.00666661,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Front St & Gold St",
+    "Latitude":40.70224,
+    "Longitude":-73.982578,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Front St & Maiden Ln",
+    "Latitude":40.70530954,
+    "Longitude":-74.00612572,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Front St & Washington St",
+    "Latitude":40.70255088,
+    "Longitude":-73.98940236,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Frost St & Meeker St",
+    "Latitude":40.71764,
+    "Longitude":-73.94882,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Fulton St & Broadway",
+    "Latitude":40.711066,
+    "Longitude":-74.009447,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Fulton St & Clermont Ave",
+    "Latitude":40.68415748,
+    "Longitude":-73.96922273,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Fulton St & Grand Ave",
+    "Latitude":40.68223166,
+    "Longitude":-73.9614583,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Fulton St & Rockwell Pl",
+    "Latitude":40.688226,
+    "Longitude":-73.979382,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Fulton St & Utica Ave",
+    "Latitude":40.6794268,
+    "Longitude":-73.9298911,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Fulton St & Washington Ave",
+    "Latitude":40.683048,
+    "Longitude":-73.964915,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Fulton St & William St",
+    "Latitude":40.70955958,
+    "Longitude":-74.00653609,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Gallatin Pl & Livingston St",
+    "Latitude":40.69028437,
+    "Longitude":-73.98707105,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Graham Ave & Conselyea St",
+    "Latitude":40.715143,
+    "Longitude":-73.944507,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Graham Ave & Grand St",
+    "Latitude":40.711863,
+    "Longitude":-73.944024,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Graham Ave & Herbert St",
+    "Latitude":40.71929301,
+    "Longitude":-73.94500379,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Graham Ave & Withers St",
+    "Latitude":40.7169811,
+    "Longitude":-73.94485918,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Grand Army Plaza & Central Park S",
+    "Latitude":40.7643971,
+    "Longitude":-73.97371465,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Grand St & Greene St",
+    "Latitude":40.72165481,
+    "Longitude":-74.00234737,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Grand St & Havemeyer St",
+    "Latitude":40.71286844,
+    "Longitude":-73.95698119,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Great Jones St",
+    "Latitude":40.72743423,
+    "Longitude":-73.99379025,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Greene Ave & Nostrand Ave",
+    "Latitude":40.6883337,
+    "Longitude":-73.950916,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Greene Ave & Throop Ave",
+    "Latitude":40.6894932,
+    "Longitude":-73.942061,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Greenpoint Ave & Manhattan Ave",
+    "Latitude":40.73026,
+    "Longitude":-73.95394,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Greenwich Ave & 8 Ave",
+    "Latitude":40.73901691,
+    "Longitude":-74.00263761,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Greenwich Ave & Charles St",
+    "Latitude":40.735238,
+    "Longitude":-74.000271,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Greenwich St & N Moore St",
+    "Latitude":40.72043411,
+    "Longitude":-74.01020609,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Greenwich St & W Houston St",
+    "Latitude":40.728846,
+    "Longitude":-74.008591,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"Greenwich St & Warren St",
+    "Latitude":40.71542197,
+    "Longitude":-74.01121978,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Halsey St & Tompkins Ave",
+    "Latitude":40.6823687,
+    "Longitude":-73.944118,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Hancock St & Bedford Ave",
+    "Latitude":40.68216564,
+    "Longitude":-73.95399026,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Hanson Pl & St Felix St",
+    "Latitude":40.6851596,
+    "Longitude":-73.97711366,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Harrison St & Hudson St",
+    "Latitude":40.71870987,
+    "Longitude":-74.0090009,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Henry St & Atlantic Ave",
+    "Latitude":40.69089272,
+    "Longitude":-73.99612349,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Henry St & Grand St",
+    "Latitude":40.714215,
+    "Longitude":-73.981346,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"Henry St & Poplar St",
+    "Latitude":40.700469,
+    "Longitude":-73.991454,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"Hicks St & Montague St",
+    "Latitude":40.69512845,
+    "Longitude":-73.99595065,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"Hope St & Union Ave",
+    "Latitude":40.71167351,
+    "Longitude":-73.95141312,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Howard St & Centre St",
+    "Latitude":40.71910537,
+    "Longitude":-73.99973337,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Hudson St & Reade St",
+    "Latitude":40.71625008,
+    "Longitude":-74.0091059,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"Humboldt St & Varet St",
+    "Latitude":40.7031724,
+    "Longitude":-73.940636,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Huron St & Franklin St",
+    "Latitude":40.73266,
+    "Longitude":-73.95826,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"India St & East River",
+    "Latitude":40.73165141,
+    "Longitude":-73.96161892,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"India St & Manhattan Ave",
+    "Latitude":40.73232194,
+    "Longitude":-73.9550858,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"Jackson Ave & 46 Rd",
+    "Latitude":40.74524768,
+    "Longitude":-73.94733276,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Jay St & Tech Pl",
+    "Latitude":40.695065,
+    "Longitude":-73.987167,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"John St & William St",
+    "Latitude":40.70862144,
+    "Longitude":-74.00722156,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Johnson St & Gold St",
+    "Latitude":40.69474881,
+    "Longitude":-73.98362464,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"Kent Ave & N 7 St",
+    "Latitude":40.72057658,
+    "Longitude":-73.96150225,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Kent Ave & S 11 St",
+    "Latitude":40.70827295,
+    "Longitude":-73.96834101,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Kingston Ave & Herkimer St",
+    "Latitude":40.67890679,
+    "Longitude":-73.94142771,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Kosciuszko St & Nostrand Ave",
+    "Latitude":40.69072549,
+    "Longitude":-73.95133465,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Kosciuszko St & Tompkins Ave",
+    "Latitude":40.69128258,
+    "Longitude":-73.9452416,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Lafayette Ave & Classon Ave",
+    "Latitude":40.68900443,
+    "Longitude":-73.96023854,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Lafayette Ave & Fort Greene Pl",
+    "Latitude":40.68691865,
+    "Longitude":-73.976682,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Lafayette Ave & St James Pl",
+    "Latitude":40.68851534,
+    "Longitude":-73.9647628,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Lafayette St & E 8 St",
+    "Latitude":40.73028666,
+    "Longitude":-73.9907647,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Lafayette St & Jersey St",
+    "Latitude":40.72456089,
+    "Longitude":-73.99565293,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"LaGuardia Pl & W 3 St",
+    "Latitude":40.72917025,
+    "Longitude":-73.99810231,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Laight St & Hudson St",
+    "Latitude":40.72185379,
+    "Longitude":-74.00771779,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Lawrence St & Willoughby St",
+    "Latitude":40.69236178,
+    "Longitude":-73.98631746,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Lefferts Pl & Franklin Ave",
+    "Latitude":40.68034242,
+    "Longitude":-73.95576894,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Leonard St & Bayard St",
+    "Latitude":40.71928,
+    "Longitude":-73.94861,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Leonard St & Boerum St",
+    "Latitude":40.70583339,
+    "Longitude":-73.94644578,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Leonard St & Church St",
+    "Latitude":40.717571,
+    "Longitude":-74.005549,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Leonard St & Grand St",
+    "Latitude":40.71103537,
+    "Longitude":-73.94714303,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Lewis Ave & Decatur St",
+    "Latitude":40.6814598,
+    "Longitude":-73.934903,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Lewis Ave & Kosciuszko St",
+    "Latitude":40.69237074,
+    "Longitude":-73.93705428,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Lewis Ave & Madison St",
+    "Latitude":40.686312,
+    "Longitude":-73.935775,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Lexington Ave & Classon Ave",
+    "Latitude":40.68676793,
+    "Longitude":-73.95928168,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Lexington Ave & E 24 St",
+    "Latitude":40.74025878,
+    "Longitude":-73.98409214,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Lexington Ave & E 29 St",
+    "Latitude":40.74311555,
+    "Longitude":-73.98215353,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Liberty St & Broadway",
+    "Latitude":40.70905623,
+    "Longitude":-74.01043382,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Lispenard St & Broadway",
+    "Latitude":40.71939226,
+    "Longitude":-74.00247214,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"Little West St & 1 Pl",
+    "Latitude":40.70569254,
+    "Longitude":-74.01677685,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Lorimer St & Broadway",
+    "Latitude":40.70411791,
+    "Longitude":-73.94818595,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"MacDougal St & Prince St",
+    "Latitude":40.72710258,
+    "Longitude":-74.00297088,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"MacDougal St & Washington Sq",
+    "Latitude":40.73226398,
+    "Longitude":-73.99852205,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Macon St & Nostrand Ave",
+    "Latitude":40.68098339,
+    "Longitude":-73.95004798,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Madison St & Clinton St",
+    "Latitude":40.71269042,
+    "Longitude":-73.98776323,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Madison St & Montgomery St",
+    "Latitude":40.713126,
+    "Longitude":-73.984844,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Maiden Ln & Pearl St",
+    "Latitude":40.70706456,
+    "Longitude":-74.00731853,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Marcus Garvey Blvd & Macon St",
+    "Latitude":40.682601,
+    "Longitude":-73.938037,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Marcy Ave & Lafayette Ave",
+    "Latitude":40.6900815,
+    "Longitude":-73.947915,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Marcy Ave & MacDonough St",
+    "Latitude":40.68061768,
+    "Longitude":-73.94624949,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Market St & Cherry St",
+    "Latitude":40.71076228,
+    "Longitude":-73.99400398,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"McGuinness Blvd & Eagle St",
+    "Latitude":40.73555,
+    "Longitude":-73.95284,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"McKibbin St & Manhattan Ave",
+    "Latitude":40.70510918,
+    "Longitude":-73.94407279,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Mercer St & Bleecker St",
+    "Latitude":40.72679454,
+    "Longitude":-73.99695094,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Mercer St & Spring St",
+    "Latitude":40.72362738,
+    "Longitude":-73.99949601,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Meserole Ave & Manhattan Ave",
+    "Latitude":40.72708584,
+    "Longitude":-73.95299117,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Metropolitan Ave & Bedford Ave",
+    "Latitude":40.71534825,
+    "Longitude":-73.96024116,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"Metropolitan Ave & Meeker Ave",
+    "Latitude":40.71413311,
+    "Longitude":-73.95234386,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Milton St & Franklin St",
+    "Latitude":40.72906,
+    "Longitude":-73.95779,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Mobile 01",
+    "Latitude":40.77105186,
+    "Longitude":-73.9643383,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"mobile 03",
+    "Latitude":0,
+    "Longitude":0,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"mobile 04",
+    "Latitude":0,
+    "Longitude":0,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"Monroe St & Bedford Ave",
+    "Latitude":40.6851443,
+    "Longitude":-73.95380904,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Monroe St & Classon Ave",
+    "Latitude":40.6845683,
+    "Longitude":-73.95881081,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Montrose Ave & Bushwick Ave",
+    "Latitude":40.70767788,
+    "Longitude":-73.94016171,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Mott St & Prince St",
+    "Latitude":40.72317958,
+    "Longitude":-73.99480012,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Murray St & West St",
+    "Latitude":40.7149787,
+    "Longitude":-74.013012,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Myrtle Ave & Lewis Ave",
+    "Latitude":40.69681963,
+    "Longitude":-73.93756926,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Myrtle Ave & Marcy Ave",
+    "Latitude":40.69539817,
+    "Longitude":-73.94954908,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Myrtle Ave & St Edwards St",
+    "Latitude":40.69327018,
+    "Longitude":-73.97703874,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"N 11 St & Wythe Ave",
+    "Latitude":40.72153267,
+    "Longitude":-73.95782357,
+    "Level":"warning",
+    "Status":"OK",
+    "Condition":"BDC - no. of bike docks mismatch"
+  },
+  {
+    "Name":"N 12 St & Bedford Ave",
+    "Latitude":40.72079821,
+    "Longitude":-73.95484712,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"N 15 St & Wythe Ave",
+    "Latitude":40.724055,
+    "Longitude":-73.955736,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"N 6 St & Bedford Ave",
+    "Latitude":40.71745169,
+    "Longitude":-73.95850939,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"N 8 St & Driggs Ave",
+    "Latitude":40.71774592,
+    "Longitude":-73.95600096,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"N Henry St & Richardson St",
+    "Latitude":40.71921585,
+    "Longitude":-73.9424469,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Nassau Ave & Russell St",
+    "Latitude":40.72557,
+    "Longitude":-73.94434,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"Nassau St & Navy St",
+    "Latitude":40.69839895,
+    "Longitude":-73.98068914,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Norfolk St & Broome St",
+    "Latitude":40.7172274,
+    "Longitude":-73.98802084,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Norman Ave & Leonard St",
+    "Latitude":40.7258483,
+    "Longitude":-73.95064893,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Nostrand Ave & Myrtle Ave",
+    "Latitude":40.69527008,
+    "Longitude":-73.95238108,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"NYCBS Depot - DEL",
+    "Latitude":40.716633,
+    "Longitude":-73.981933,
+    "Level":"alarm",
+    "Status":"OK",
+    "Condition":"Printer - error"
+  },
+  {
+    "Name":"NYCBS Depot - DYR",
+    "Latitude":40.75908809,
+    "Longitude":-73.99375051,
+    "Level":"alarm",
+    "Status":"OK",
+    "Condition":"Printer - error"
+  },
+  {
+    "Name":"NYCBS Depot - FAR",
+    "Latitude":40.751483,
+    "Longitude":-73.996764,
+    "Level":"alarm",
+    "Status":"OK",
+    "Condition":"Printer - error"
+  },
+  {
+    "Name":"NYCBS Depot - SSP",
+    "Latitude":40.646768,
+    "Longitude":-74.01651,
+    "Level":"alarm",
+    "Status":"OK",
+    "Condition":"BKD - not present"
+  },
+  {
+    "Name":"NYCBS Depot - STY",
+    "Latitude":40.729193,
+    "Longitude":-73.976655,
+    "Level":"alarm",
+    "Status":"OK",
+    "Condition":"Credit card reader - error"
+  },
+  {
+    "Name":"Old Fulton St",
+    "Latitude":40.70277159,
+    "Longitude":-73.99383605,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Old Slip & Front St",
+    "Latitude":40.7037992,
+    "Longitude":-74.00838676,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Park Ave & Marcus Garvey Blvd",
+    "Latitude":40.698617,
+    "Longitude":-73.941342,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Park Ave & St Edwards St",
+    "Latitude":40.69608941,
+    "Longitude":-73.97803415,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Pearl St & Anchorage Pl",
+    "Latitude":40.70281858,
+    "Longitude":-73.98765762,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Pearl St & Hanover Square",
+    "Latitude":40.7047177,
+    "Longitude":-74.00926027,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Peck Slip & Front St",
+    "Latitude":40.707873,
+    "Longitude":-74.00167,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Penn Station Valet",
+    "Latitude":40.7512836,
+    "Longitude":-73.99692446,
+    "Level":"warning",
+    "Status":"OK",
+    "Condition":"Solar panel - not charging"
+  },
+  {
+    "Name":"Perry St & Bleecker St",
+    "Latitude":40.73535398,
+    "Longitude":-74.00483091,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Pershing Square North",
+    "Latitude":40.751873,
+    "Longitude":-73.977706,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Pershing Square South",
+    "Latitude":40.751581,
+    "Longitude":-73.97791,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Pike St & E Broadway",
+    "Latitude":40.71406667,
+    "Longitude":-73.99293911,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Pike St & Monroe St",
+    "Latitude":40.71173107,
+    "Longitude":-73.99193043,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Pitt St & Stanton St",
+    "Latitude":40.71926081,
+    "Longitude":-73.98178024,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Pulaski St & Marcus Garvey Blvd",
+    "Latitude":40.6933982,
+    "Longitude":-73.939877,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Putnam Ave & Nostrand Ave",
+    "Latitude":40.68402,
+    "Longitude":-73.94977,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Putnam Ave & Throop Ave",
+    "Latitude":40.6851532,
+    "Longitude":-73.94111,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Queens Plaza North & Crescent St",
+    "Latitude":40.75110165,
+    "Longitude":-73.94073717,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Railroad Ave & Kay Ave",
+    "Latitude":40.70531194,
+    "Longitude":-73.97100056,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Reade St & Broadway",
+    "Latitude":40.71450451,
+    "Longitude":-74.00562789,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Riverside Blvd & W 67 St",
+    "Latitude":40.77750703,
+    "Longitude":-73.98888588,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Riverside Dr & W 72 St ",
+    "Latitude":40.78057799,
+    "Longitude":-73.98562431,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Riverside Dr & W 78 St",
+    "Latitude":40.78414472,
+    "Longitude":-73.98362492,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Riverside Dr & W 82 St",
+    "Latitude":40.78720869,
+    "Longitude":-73.98128127,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Rivington St & Chrystie St",
+    "Latitude":40.72110063,
+    "Longitude":-73.9919254,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"Rivington St & Ridge St",
+    "Latitude":40.71850211,
+    "Longitude":-73.98329859,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"Roebling St & N 4 St",
+    "Latitude":40.71469,
+    "Longitude":-73.95739,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"S 3 St & Bedford Ave",
+    "Latitude":40.71260486,
+    "Longitude":-73.96264403,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"S 4 St & Rodney St",
+    "Latitude":40.70934,
+    "Longitude":-73.95608,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"S 4 St & Wythe Ave",
+    "Latitude":40.71285887,
+    "Longitude":-73.96590294,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"S 5 Pl & S 4 St",
+    "Latitude":40.710451,
+    "Longitude":-73.960876,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"S Portland Ave & Hanson Pl",
+    "Latitude":40.68539567,
+    "Longitude":-73.97431458,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Sands St & Navy St",
+    "Latitude":40.699773,
+    "Longitude":-73.979927,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Scholes St & Manhattan Ave",
+    "Latitude":40.70870368,
+    "Longitude":-73.9448625,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Shevchenko Pl & E 7 St",
+    "Latitude":40.728145,
+    "Longitude":-73.990214,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Soissons Landing",
+    "Latitude":40.692609,
+    "Longitude":-74.016398,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"South End Ave & Liberty St",
+    "Latitude":40.711512,
+    "Longitude":-74.015756,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"South St & Gouverneur Ln",
+    "Latitude":40.70355377,
+    "Longitude":-74.00670227,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"South St & Whitehall St",
+    "Latitude":40.70122128,
+    "Longitude":-74.01234218,
+    "Level":"warning",
+    "Status":"OK",
+    "Condition":"BDC - no. of bike docks mismatch"
+  },
+  {
+    "Name":"Spruce St & Nassau St",
+    "Latitude":40.71146364,
+    "Longitude":-74.00552427,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"SSP Tech Workshop",
+    "Latitude":40.646678,
+    "Longitude":-74.016263,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"St James Pl & Oliver St",
+    "Latitude":40.71307916,
+    "Longitude":-73.99851193,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"St James Pl & Pearl St",
+    "Latitude":40.71117416,
+    "Longitude":-74.00016545,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"St Marks Pl & 1 Ave",
+    "Latitude":40.72779126,
+    "Longitude":-73.98564945,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"St Marks Pl & 2 Ave",
+    "Latitude":40.7284186,
+    "Longitude":-73.98713956,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Stagg St & Union Ave",
+    "Latitude":40.70877084,
+    "Longitude":-73.95095259,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Stanton St & Chrystie St",
+    "Latitude":40.72229346,
+    "Longitude":-73.99147535,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Stanton St & Mangin St",
+    "Latitude":40.71782143,
+    "Longitude":-73.97628939,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"State St & Smith St",
+    "Latitude":40.68926942,
+    "Longitude":-73.98912867,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Suffolk St & Stanton St",
+    "Latitude":40.72066442,
+    "Longitude":-73.98517977,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Sullivan St & Washington Sq",
+    "Latitude":40.73047747,
+    "Longitude":-73.99906065,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Throop Ave & Myrtle Ave",
+    "Latitude":40.69622937,
+    "Longitude":-73.94371094,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Tompkins Ave & Hopkins St",
+    "Latitude":40.69957608,
+    "Longitude":-73.94708417,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Union Ave & Jackson St",
+    "Latitude":40.7160751,
+    "Longitude":-73.952029,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Union Ave & Wallabout St",
+    "Latitude":40.70029511,
+    "Longitude":-73.95032283,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"University Pl & E 14 St",
+    "Latitude":40.73492695,
+    "Longitude":-73.99200509,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Vernon Blvd & 50 Ave",
+    "Latitude":40.74232744,
+    "Longitude":-73.95411749,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Vesey Pl & River Terrace",
+    "Latitude":40.7153379,
+    "Longitude":-74.01658354,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 11 St & 6 Ave",
+    "Latitude":40.73532427,
+    "Longitude":-73.99800419,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"W 13 St & 5 Ave",
+    "Latitude":40.73543934,
+    "Longitude":-73.99453948,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"W 13 St & 6 Ave",
+    "Latitude":40.73649403,
+    "Longitude":-73.99704374,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 13 St & 7 Ave",
+    "Latitude":40.73781509,
+    "Longitude":-73.99994661,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 13 St & Hudson St",
+    "Latitude":40.73997354,
+    "Longitude":-74.00513873,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 14 St & The High Line",
+    "Latitude":40.74195138,
+    "Longitude":-74.00803013,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"W 15 St & 7 Ave",
+    "Latitude":40.73935542,
+    "Longitude":-73.99931783,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 16 St & The High Line",
+    "Latitude":40.74334935,
+    "Longitude":-74.00681753,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 17 St & 8 Ave",
+    "Latitude":40.74177603,
+    "Longitude":-74.00149746,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 18 St & 6 Ave",
+    "Latitude":40.73971301,
+    "Longitude":-73.99456405,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 20 St & 11 Ave",
+    "Latitude":40.746745,
+    "Longitude":-74.007756,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 20 St & 7 Ave",
+    "Latitude":40.74238787,
+    "Longitude":-73.99726235,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 20 St & 8 Ave",
+    "Latitude":40.74345335,
+    "Longitude":-74.00004031,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 21 St & 6 Ave",
+    "Latitude":40.74173969,
+    "Longitude":-73.99415556,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 22 St & 10 Ave",
+    "Latitude":40.74691959,
+    "Longitude":-74.00451887,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 22 St & 8 Ave",
+    "Latitude":40.74475148,
+    "Longitude":-73.99915362,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 24 St & 7 Ave",
+    "Latitude":40.74487634,
+    "Longitude":-73.99529885,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 25 St & 6 Ave",
+    "Latitude":40.74395411,
+    "Longitude":-73.99144871,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 26 St & 10 Ave",
+    "Latitude":40.74971775,
+    "Longitude":-74.00295035,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 26 St & 8 Ave",
+    "Latitude":40.74734825,
+    "Longitude":-73.99723551,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 27 St & 7 Ave",
+    "Latitude":40.746647,
+    "Longitude":-73.993915,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 29 St & 9 Ave",
+    "Latitude":40.7500727,
+    "Longitude":-73.99839279,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 31 St & 7 Ave",
+    "Latitude":40.749156,
+    "Longitude":-73.9916,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 33 St & 7 Ave",
+    "Latitude":40.75019995,
+    "Longitude":-73.99093085,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 34 St & 11 Ave",
+    "Latitude":40.75594159,
+    "Longitude":-74.0021163,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"W 37 St & 10 Ave",
+    "Latitude":40.75660359,
+    "Longitude":-73.9979009,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 37 St & 5 Ave",
+    "Latitude":40.75038009,
+    "Longitude":-73.98338988,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 38 St & 8 Ave",
+    "Latitude":40.75466591,
+    "Longitude":-73.99138152,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 39 St & 9 Ave",
+    "Latitude":40.75645824,
+    "Longitude":-73.99372222,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 4 St & 7 Ave S",
+    "Latitude":40.73401143,
+    "Longitude":-74.00293877,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 41 St & 8 Ave",
+    "Latitude":40.75640548,
+    "Longitude":-73.9900262,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 42 St & 8 Ave",
+    "Latitude":40.7575699,
+    "Longitude":-73.99098507,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 43 St & 10 Ave",
+    "Latitude":40.76009437,
+    "Longitude":-73.99461843,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 43 St & 6 Ave",
+    "Latitude":40.75527307,
+    "Longitude":-73.98316936,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 44 St & 5 Ave",
+    "Latitude":40.75500254,
+    "Longitude":-73.98014437,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"W 45 St & 6 Ave",
+    "Latitude":40.7568001,
+    "Longitude":-73.98291153,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 45 St & 8 Ave",
+    "Latitude":40.75929124,
+    "Longitude":-73.98859651,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 46 St & 11 Ave",
+    "Latitude":40.76341379,
+    "Longitude":-73.99667444,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Printer - low paper"
+  },
+  {
+    "Name":"W 47 St & 10 Ave",
+    "Latitude":40.76269882,
+    "Longitude":-73.99301222,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"W 49 St & 8 Ave",
+    "Latitude":40.76227205,
+    "Longitude":-73.98788205,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 51 St & 6 Ave",
+    "Latitude":40.7606597,
+    "Longitude":-73.98042047,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 52 St & 11 Ave",
+    "Latitude":40.76727216,
+    "Longitude":-73.99392888,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"W 52 St & 5 Ave",
+    "Latitude":40.75992262,
+    "Longitude":-73.97648516,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"W 52 St & 9 Ave",
+    "Latitude":40.76461837,
+    "Longitude":-73.98789473,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 53 St & 10 Ave",
+    "Latitude":40.76669671,
+    "Longitude":-73.99061728,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 54 St & 9 Ave",
+    "Latitude":40.76584941,
+    "Longitude":-73.98690506,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"W 56 St & 10 Ave",
+    "Latitude":40.768254,
+    "Longitude":-73.988639,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 56 St & 6 Ave",
+    "Latitude":40.76340613,
+    "Longitude":-73.97722479,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"W 59 St & 10 Ave",
+    "Latitude":40.770513,
+    "Longitude":-73.988038,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"W 63 St & Broadway",
+    "Latitude":40.77163851,
+    "Longitude":-73.98261428,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 64 St & West End Ave",
+    "Latitude":40.77452835,
+    "Longitude":-73.98753759,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 67 St & Broadway",
+    "Latitude":40.77492513,
+    "Longitude":-73.98266566,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 70 St & Amsterdam Ave",
+    "Latitude":40.77748046,
+    "Longitude":-73.98288594,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 74 St & Columbus Ave",
+    "Latitude":40.7785669,
+    "Longitude":-73.97754961,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 76 St & Columbus Ave",
+    "Latitude":40.78018397,
+    "Longitude":-73.97728533,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 78 St & Broadway",
+    "Latitude":40.78339981,
+    "Longitude":-73.98093133,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 82 St & Central Park West",
+    "Latitude":40.78275,
+    "Longitude":-73.97137,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 84 St & Broadway",
+    "Latitude":40.7867947,
+    "Longitude":-73.977112,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W 84 St & Columbus Ave",
+    "Latitude":40.78499979,
+    "Longitude":-73.97283406,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"W Broadway & Spring St",
+    "Latitude":40.72490985,
+    "Longitude":-74.00154702,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Warren St & Church St",
+    "Latitude":40.71473993,
+    "Longitude":-74.00910627,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Washington Ave & Greene Ave",
+    "Latitude":40.68650065,
+    "Longitude":-73.96563307,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Washington Ave & Park Ave",
+    "Latitude":40.69610226,
+    "Longitude":-73.96751037,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Washington Park",
+    "Latitude":40.6917823,
+    "Longitude":-73.9737299,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Washington Pl & 6 Ave",
+    "Latitude":40.73224119,
+    "Longitude":-74.00026394,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Washington Pl & Broadway",
+    "Latitude":40.72903917,
+    "Longitude":-73.99404649,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Washington Square E",
+    "Latitude":40.73049393,
+    "Longitude":-73.9957214,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"Washington St & Gansevoort St",
+    "Latitude":40.739323,
+    "Longitude":-74.008119,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Water - Whitehall Plaza",
+    "Latitude":40.70255065,
+    "Longitude":-74.0127234,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Battery door - open"
+  },
+  {
+    "Name":"Watts St & Greenwich St",
+    "Latitude":40.72405549,
+    "Longitude":-74.00965965,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"West St & Chambers St",
+    "Latitude":40.71754834,
+    "Longitude":-74.01322069,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"West Thames St",
+    "Latitude":40.70834698,
+    "Longitude":-74.01713445,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"William St & Pine St",
+    "Latitude":40.70717936,
+    "Longitude":-74.00887308,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Willoughby Ave & Hall St",
+    "Latitude":40.69196035,
+    "Longitude":-73.96536851,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Willoughby Ave & Tompkins Ave",
+    "Latitude":40.69425403,
+    "Longitude":-73.94626915,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Willoughby Ave & Walworth St",
+    "Latitude":40.69331716,
+    "Longitude":-73.95381995,
+    "Level":"ok",
+    "Status":"OK",
+    "Condition":"OK"
+  },
+  {
+    "Name":"Willoughby St & Fleet St",
+    "Latitude":40.69196566,
+    "Longitude":-73.9813018,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Wythe Ave & Metropolitan Ave",
+    "Latitude":40.716887,
+    "Longitude":-73.963198,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  },
+  {
+    "Name":"Yankee Ferry Terminal",
+    "Latitude":40.686931,
+    "Longitude":-74.016966,
+    "Level":"critical",
+    "Status":"Disconnected",
+    "Condition":"Disconnected"
+  },
+  {
+    "Name":"York St & Jay St",
+    "Latitude":40.7014851,
+    "Longitude":-73.98656928,
+    "Level":"notice",
+    "Status":"OK",
+    "Condition":"Door - open"
+  }
+]
