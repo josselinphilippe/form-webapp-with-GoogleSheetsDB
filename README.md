@@ -6,10 +6,10 @@ JQM web app form for bicycle share mechanics to use in the field.
 
 The idea is to improve on an existing Google form with serious data validation issues and generally poor user experience. Mechanics working on bicycles in the field need to be able to log the following information:
 
-Bike identification (chainstay number)
-Station identification 
-Nature of inspection or repair
-Inventory used
+Bike identification (chainstay number)<br>
+Station identification <br>
+Nature of inspection or repair<br>
+Inventory used<br>
 
 
 Moving away from the default embedded Google Form option opened the door to dynamic form inputs and geolocation. 
